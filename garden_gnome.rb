@@ -2,7 +2,7 @@
 class GardenGnome
   attr_accessor :name, :age, :gluten_allergy
   attr_reader: :personality
-  def intialize(hat_colorx)
+  def intialize(hat_color)
     @personality = "evil"
 end
 end
