@@ -4,5 +4,6 @@ class GardenGnome
   attr_reader :personality
   def intialize(hat_color)
     @personality = "evil"
+    @hat_color = hat_color
 end
 end
