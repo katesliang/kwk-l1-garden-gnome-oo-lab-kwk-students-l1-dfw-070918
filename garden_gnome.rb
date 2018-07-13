@@ -15,6 +15,5 @@ class GardenGnome
   def introduce_self
 "Hello humans, my name is #{:name}, I am #{:age} years old, and you'll rue the day you crossed me!"
   end
+  GardenGnome gnome1 = GardenGnome.new()
 end
-
-GardenGnome gnome1 = GardenGnome.new()
