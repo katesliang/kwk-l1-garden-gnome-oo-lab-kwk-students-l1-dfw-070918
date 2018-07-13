@@ -6,4 +6,5 @@ class GardenGnome
     @personality = "evil"
     @hat_color = hat_color
 end
+
 end
