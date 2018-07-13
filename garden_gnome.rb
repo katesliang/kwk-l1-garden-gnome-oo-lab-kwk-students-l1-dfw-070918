@@ -7,13 +7,12 @@ class GardenGnome
     @hat_color = hat_color
   end
   def gnaw
-  "Gnawing on a tree!!!"
+    "Gnawing on a tree!!!"
   end
   def shout
-  "GNARLY!!!"
+   "GNARLY!!!"
   end
   def introduce_self
-"Hello humans, my name is #{:name}, I am #{:age} years old, and you'll rue the day you crossed me!"
+    "Hello humans, my name is #{:name}, I am #{:age} years old, and you'll rue the day you crossed me!"
   end
-  GardenGnome gnome1 = GardenGnome.new
 end
